@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Update 1.1",
+        "description": "This update includes performance improvements and bug fixes.",
+        "imageUrl": "https://your-repo-link/path-to-image/update1.png"
+    },
+    {
+        "title": "Update 1.2",
+        "description": "New levels added and improved AI behavior.",
+        "imageUrl": "https://your-repo-link/path-to-image/update2.png"
+    }
+]
